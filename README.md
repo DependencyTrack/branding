@@ -1,5 +1,6 @@
+![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-black-text.svg?sanitize=true)
 
-# Dependency-Track Branding
+
 
 This repository contains logos and other artwork used in the branding of Dependency-Track.
 
@@ -17,16 +18,6 @@ Rubik Light
 
 https://fonts.google.com/specimen/Rubik
 
-## Preview 
-
-##### dt-logo-black-text.svg
-![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-black-text.svg?sanitize=true)
-
-##### dt-logo-vertical-black-text.svg
-![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-vertical-black-text?sanitize=true)
-
-##### dt-logo-symbol.svg
-![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-symbol.svg?sanitize=true)
 
 ## Copyright
 
