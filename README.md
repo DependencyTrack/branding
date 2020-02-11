@@ -20,14 +20,13 @@ https://fonts.google.com/specimen/Rubik
 ## Preview 
 
 ##### dt-logo-black-text.svg
-<img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-black-text.svg" alt="logo preview">
-
-##### dt-logo-symbol.svg
-<img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-symbol.svg" alt="logo preview">
+![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-black-text.svg?sanitize=true)
 
 ##### dt-logo-vertical-black-text.svg
-<img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-vertical-black-text.svg" alt="logo preview">
+![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-vertical-black-text?sanitize=true)
 
+##### dt-logo-symbol.svg
+![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-symbol.svg?sanitize=true)
 
 ## Copyright
 
