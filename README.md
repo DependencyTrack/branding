@@ -17,6 +17,17 @@ Rubik Light
 
 https://fonts.google.com/specimen/Rubik
 
+## Preview 
+
+##### dt-logo-black-text.svg
+<img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-black-text.svg" alt="logo preview">
+
+##### dt-logo-symbol.svg
+<img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-symbol.svg" alt="logo preview">
+
+##### dt-logo-vertical-black-text.svg
+<img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-vertical-black-text.svg" alt="logo preview">
+
 
 ## Copyright
 
