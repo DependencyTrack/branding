@@ -1,4 +1,4 @@
-![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-black-text.svg?sanitize=true)
+![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/3.8%20-%204.7/dt-logo-black-text.svg?sanitize=true)
 
 
 
